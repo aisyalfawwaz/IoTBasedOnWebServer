@@ -7,7 +7,7 @@ This repository contains Arduino code for a soil sensor with WiFi access. The se
 - LM35 temperature sensor
 - Humidity sensor (e.g., DHT11 or DHT22)
 - Moisture sensor (e.g., analog moisture sensor or soil moisture sensor)
-- WiFi module (e.g., ESP8266)
+- WiFi module (e.g., ESP8266 or ESP32)
 
 ## Software Requirements
 - Arduino IDE (https://www.arduino.cc/en/software)
